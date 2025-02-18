@@ -1,7 +1,3 @@
-Aquí tienes un ejemplo de README.md atractivo para tu perfil de GitHub. Adáptalo según tus gustos, proyectos y datos personales:
-
----
-
 # ¡Hola, soy Eliut! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 > Desarrollador apasionado por JavaScript y Node.js. Me encanta crear y optimizar bots para Discord. Siempre buscando aprender y compartir conocimiento con la comunidad.
