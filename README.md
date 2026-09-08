@@ -42,14 +42,6 @@
 Minimalist Roblox UI library — glass-morphism, gradient animado, iconos Lucide y anti-detección. API compatible con WindUI.
 > 🧩 Lua · Roblox UI
 
-### [🔹 verificacion-beneficiarios](https://github.com/Eliuutho/verificacion-beneficiarios)
-Sistema de verificación triple de beneficiarios contra Registraduría, SISBEN y ADRES.
-> 🚀 JavaScript
-
-### [🔹 claude-elite-directives](https://github.com/Eliuutho/claude-elite-directives)
-Directivas CLAUDE.md élite — 14 principios de ingeniería que potencian Claude Code. Fork mejorado de Karpathy skills.
-> 🧠 IA · Directivas
-
 ---
 
 ## 📊 Estadísticas
@@ -59,8 +51,6 @@ Directivas CLAUDE.md élite — 14 principios de ingeniería que potencian Claud
 [![Visitantes](https://komarev.com/ghpvc/?username=Eliuutho&style=flat-square&color=43B7E0)](https://github.com/Eliuutho)
 
 [![Estadísticas](https://github-readme-streak-stats.herokuapp.com/?user=Eliuutho&theme=dark&background=000000)](https://github.com/Eliuutho)
-
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliuutho&layout=compact&theme=dark)](https://github.com/Eliuutho)
 
 </div>
 
