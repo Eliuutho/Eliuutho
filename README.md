@@ -2,7 +2,7 @@
 
 # ¡Hola, soy Elxy! 👋
 
-**@Eliuutho** · *20 años* · Barranquilla, Colombia
+**@Eliuutho** · *20 años* · Colombia
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=24&duration=3000&pause=1000&color=43B7E0&center=true&vCenter=true&random=false&width=700&lines=Desarrollador+Backend;Bots+para+Discord;Full-stack+y+Cloud;Siempre+aprendiendo+algo+nuevo)](https://readme-typing-svg.demolab.com)
 
