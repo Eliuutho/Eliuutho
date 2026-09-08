@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola, soy Eliut! 👋
+# ¡Hola, soy Elxy! 👋
 
 **@Eliuutho** · *20 años* · Barranquilla, Colombia
 
