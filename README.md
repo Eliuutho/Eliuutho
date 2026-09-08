@@ -1,63 +1,77 @@
-# ¡Hola, soy Eliut! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<div align="center">
 
-> Desarrollador apasionado por JavaScript y Node.js. Me encanta crear y optimizar bots para Discord. Siempre buscando aprender y compartir conocimiento con la comunidad.
+# ¡Hola, soy Eliut! 👋
 
-## Sobre mí
+**@Eliuutho** · *20 años* · Barranquilla, Colombia
 
-- **Nombre:** @Eliuutho
-- **Rol actual:** Desarrollador Backend  
-- **Ubicación:** BARRANQUILLA, COLOMBIA
-- **Intereses principales:** 
-  - Desarrollo de bots de Discord  
-  - JavaScript & Node.js  
-  - Proyectos open source  
-  - Aprendizaje continuo  
-
-Me gusta colaborar con otros desarrolladores y mejorar la calidad de las herramientas que utilizamos a diario. En mis ratos libres, experimento con librerías nuevas, frameworks y todo lo relacionado con la automatización de procesos.
-
-## Tecnologías y Herramientas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js"/>
-</p>
-
-## Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eliuutho&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-</p>
-
-<!-- Opcional: También puedes mostrar tus lenguajes más usados -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliuutho&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
-
-## ¡Conecta conmigo!
-
-- **Discord:** @Eliuutho
-
-¡Gracias por pasar por aquí!  
-Siéntete libre de contribuir o abrir issues en mis repositorios.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=24&duration=3000&pause=1000&color=43B7E0&center=true&vCenter=true&random=false&width=700&lines=Desarrollador+Backend;Bots+para+Discord;Full-stack+y+Cloud;Siempre+aprendiendo+algo+nuevo)](https://readme-typing-svg.demolab.com)
 
 ---
 
-> _“La vida es un experimento; entre más experimentos hagas, mejor.”_  
+## Sobre mí
 
-¡Nos leemos pronto!  
+- 🎯 **Rol:** Desarrollador Backend
+- 🔭 **Intereses:** Bots de Discord · JavaScript & Node.js · Cloud · Open source
+- 🌱 **Siempre:** Aprendiendo y compartiendo con la comunidad
+- ⚡ **Lema:** *La vida es un experimento; entre más experimentos hagas, mejor.*
 
-<!--
-**Eliuutho/Eliuutho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Stack tecnológico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📁 Proyectos destacados
+
+### [🔹 lilui](https://github.com/Eliuutho/lilui)
+Minimalist Roblox UI library — glass-morphism, gradient animado, iconos Lucide y anti-detección. API compatible con WindUI.
+> 🧩 Lua · Roblox UI
+
+### [🔹 verificacion-beneficiarios](https://github.com/Eliuutho/verificacion-beneficiarios)
+Sistema de verificación triple de beneficiarios contra Registraduría, SISBEN y ADRES.
+> 🚀 JavaScript
+
+### [🔹 claude-elite-directives](https://github.com/Eliuutho/claude-elite-directives)
+Directivas CLAUDE.md élite — 14 principios de ingeniería que potencian Claude Code. Fork mejorado de Karpathy skills.
+> 🧠 IA · Directivas
+
+---
+
+## 📊 Estadísticas
+
+<div align="center">
+
+[![Visitantes](https://komarev.com/ghpvc/?username=Eliuutho&style=flat-square&color=43B7E0)](https://github.com/Eliuutho)
+
+[![Estadísticas](https://github-readme-streak-stats.herokuapp.com/?user=Eliuutho&theme=dark&background=000000)](https://github.com/Eliuutho)
+
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliuutho&layout=compact&theme=dark)](https://github.com/Eliuutho)
+
+</div>
+
+---
+
+## 🤝 Conecta conmigo
+
+<div align="center">
+
+- 💬 **Discord:** `@Eliuutho`
+
+¡Gracias por pasar por aquí! Siéntete libre de contribuir o abrir issues en mis repos. 😄
+
+</div>
