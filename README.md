@@ -70,7 +70,7 @@ Directivas CLAUDE.md élite — 14 principios de ingeniería que potencian Claud
 
 <div align="center">
 
-- 💬 **Discord:** `@Eliuutho`
+- 💬 **Discord:** `aep3`
 
 ¡Gracias por pasar por aquí! Siéntete libre de contribuir o abrir issues en mis repos. 😄
 
